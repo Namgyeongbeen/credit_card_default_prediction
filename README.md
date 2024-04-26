@@ -16,17 +16,17 @@
         - **활용 방안** : 물론 다른 feature들도 모니터 해야 하겠지만 이 feature들을 위주로 세심하게 관리한다면 1️⃣고객들의 상환 연체를 미연에 감지할 수 있을 것이고 궁극적으로는 2️⃣연체 관련 대응책을 마련하거나 대출 전략을 재조정 하는 등의 효과적인 신용 관리 전략을 수립하거나, 3️⃣연체 예상 고객 목록을 만들어 집중관리할 수도 있을 것이다.
         
         ![Untitled](https://github.com/Namgyeongbeen/credit_card_default_prediction/assets/152850843/a68433ed-2bb3-48ad-93cb-9ebbeb41c974)
-        EDA내용 중 하나. 신용한도 별 연체율. 한도가 높아질수록 연체율이 낮아지는 것을 볼 수 있다.
+EDA내용 중 하나. 신용한도 별 연체율. 한도가 높아질수록 연체율이 낮아지는 것을 볼 수 있다.
  
 
 
         ![Untitled (1)](https://github.com/Namgyeongbeen/credit_card_default_prediction/assets/152850843/3fae1cda-b553-4514-b619-f6a2ef102ad7)
-        모델의 성능을 측정하는 ROC AUC 곡선. ROC AUC score는 0.92가 나왔다. 불균형 개선 전의 score는 0.78이었다.
+모델의 성능을 측정하는 ROC AUC 곡선. ROC AUC score는 0.92가 나왔다. 불균형 개선 전의 score는 0.78이었다.
  
 
 
         ![Untitled (2)](https://github.com/Namgyeongbeen/credit_card_default_prediction/assets/152850843/20ca0767-bbd1-427b-b146-5d40d84c249d)        
-        Feature importance. 연체 여부와 연관성이 높은 parameter 탐색.
+Feature importance. 연체 여부와 연관성이 높은 parameter 탐색.
 
 
         
