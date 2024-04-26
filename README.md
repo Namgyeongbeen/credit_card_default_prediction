@@ -18,16 +18,18 @@
 ![Untitled](https://github.com/Namgyeongbeen/credit_card_default_prediction/assets/152850843/a68433ed-2bb3-48ad-93cb-9ebbeb41c974)
 EDA내용 중 하나. 신용한도 별 연체율. 한도가 높아질수록 연체율이 낮아지는 것을 볼 수 있다.
  
-
+<br/>
+<br/>
 
 ![Untitled (1)](https://github.com/Namgyeongbeen/credit_card_default_prediction/assets/152850843/3fae1cda-b553-4514-b619-f6a2ef102ad7)
 모델의 성능을 측정하는 ROC AUC 곡선. ROC AUC score는 0.92가 나왔다. 불균형 개선 전의 score는 0.78이었다.
  
-
+<br/>
+<br/>
 
 ![Untitled (2)](https://github.com/Namgyeongbeen/credit_card_default_prediction/assets/152850843/20ca0767-bbd1-427b-b146-5d40d84c249d)
 Feature importance. 연체 여부와 연관성이 높은 parameter 탐색.
-
+<br/>
 
         
 - **Lesson Learned**
