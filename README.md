@@ -5,7 +5,7 @@
 - **성과** : EDA/비즈니스 인사이트 도출 역량 향상 및 목적에 맞는 가설 설정과 변수간 상관관계 파악하는 역량, 분류 문제에 적절한 ML기법을 사용하는 역량 향상.
 - **데이터** : 대만 카드업체의 1년간의 고객 데이터 from kaggle([링크](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset))
 - **`Language / Tool` : `Python` `Pandas` `Numpy` `Google colab` `Matplotlib` `Seaborn`**
-- **과정 및 결과 :** 1️⃣EDA, 전처리  ⇒  2️⃣모델링, 성능평가  ⇒  3️⃣Hyperparameter tuning  ⇒  4️⃣재 모델링, 성능평가, 활용방안 제안
+- **과정 및 결과 :** :1️⃣::EDA, 전처리  ⇒  2️⃣모델링, 성능평가  ⇒  3️⃣Hyperparameter tuning  ⇒  4️⃣재 모델링, 성능평가, 활용방안 제안
     - **주요 전처리 및 EDA :** 연체 여부와 다른 컬럼간의 상관관계를 찾는 것과 연체 여부에 따른 고객들의 특성을 파악하는 것을 중심으로 진행.
         - **전처리** : EDA 결과로부터 문제 해결에 필요 없는 컬럼은 버리거나 모델링에 사용하기 좋은 형태로 바꾸는 등의 feature engineering, target 데이터의 불균형을 해소하기 위한 SMOTE.
     - **모델링과 그 결과 및 해석, 활용방안**
